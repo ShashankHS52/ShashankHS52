@@ -5,7 +5,7 @@ Full Stack developer and learner
 --------------------------------
 
 * 🌍  I'm based in Indian, Karnataka
-* 🖥️  See my portfolio at [Portfolio](http://main--steady-khapse-4bb0c2.netlify.app/)
+* 🖥️  See my portfolio at [Portfolio](https://shashankhsportfolio.netlify.app/)
 * ✉️  You can contact me at [shashank9shekar@gmail.com](mailto:shashank9shekar@gmail.com)
 * 🧠  I'm learning React
 
